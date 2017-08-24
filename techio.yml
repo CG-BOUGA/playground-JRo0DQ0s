@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Rust template
 
 plan:
-  - title: Python Snippet
+  - title: Rust Snippet
     statement: statement.md
