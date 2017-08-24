@@ -1,11 +1,13 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+This Rust template lets you get started quickly with a simple one-page playground.
 
-```python runnable
-print('Hello World!')
+```rust runnable
+fn main() {
+    println!("Hello World!");
+}
 ```
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+If you want a more complex example (external libraries, viewers...), use the [Advanced Rust template](https://tech.io/select-repo/596)
